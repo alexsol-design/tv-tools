@@ -6,9 +6,7 @@ TV Tools work with Quartz Composer, a motion graphics tool for Mac. Some patches
 
 Once you have installed QC and Origami, just copy ``TV Tools`` folder to ``~/Library/Graphics/Quartz Composer Patches``. You're done. Happy prototyping!
 
-## Why TV?
-Can I use this not for TV apps only? Sure you can.
-
+## Not only TV
 TV means that most patches was created for reproducing TV patterns (focus, grids and so on). But there’s no limitation on apps or platform in Quartz Composer, so you can use this patches for mobile or whatever you want prototypes. For example Focus patch may be used for switching states or screens, or move objects etc. Grid Tool patch can make image grids which is not only a TV pattern.
 
 ## Feedback
