@@ -1,0 +1,100 @@
+body {
+	font-family:"Avenir Next", "Helvetica Neue", Arial, sans-serif;
+	font-size:100%;
+	background:#3E4651;
+	margin:0;
+	padding:0;
+	vertical-align: baseline;
+	color:#FFF;
+}
+
+h1 {
+	font-weight: 300;
+	font-size:44px;
+	color:#FFF;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  }
+
+  a:link, a:visited, a:hover, a:active {
+  	color:#52C2F9;
+  	text-decoration: none;
+  }
+
+  h2 {
+  	margin-top:1.4em;
+  	font-weight: 500;
+  	font-size:26px;
+  }
+  
+code {
+  padding: 2px 6px;
+  font-size: 85%;
+  color: #FFF;
+  background-color: #242D37;
+  border-radius: 4px;
+  }
+
+  .container {
+  	max-width: 800px;
+	margin: 0 auto;
+	padding: 130px 20px;
+	position: relative;
+	z-index: 9999;
+  }
+
+  p {
+  	color:#FFF;
+  	font-size:21px;
+  	line-height: 36px;
+  }
+
+
+  img.example-comp {
+  	display: block;
+	max-width: 400px;
+	max-height: 400px;
+	position:absolute;
+	z-index:0;
+  top:0;
+  right:0;
+  }
+
+
+  a.download {
+	display:block;
+	transition:0.5s ease-out;
+	padding:30px 0px;
+	font-size:21px;
+	text-align: center;
+	font-weight:600;
+	background-color: #242D37;
+	margin:50px 0;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+  }
+  
+  a.download img {
+  	vertical-align: top;
+  	margin-right:15px;
+  }
+
+  a.download:link, a.download:visited, a.download:hover, a.download:active {
+  	color:#FFF;
+  } 
+
+  a.download:hover {
+	background-color: #FC3262;
+  }
+
+  p.social img {
+	vertical-align: middle;
+	margin-right:15px;
+  }
+
+
